@@ -2,7 +2,7 @@
 
 A Bayesian network is a data structure that represents the dependencies among random variables. 
 
-#Equation
+# Equation
 
 ![image](https://user-images.githubusercontent.com/64577383/163217795-001efe08-8eb3-48be-be90-d95e1b62a4aa.png)
 
