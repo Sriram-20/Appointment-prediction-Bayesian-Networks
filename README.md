@@ -4,7 +4,7 @@ A Bayesian network is a data structure that represents the dependencies among ra
 
 # Appointment
 
-Here we are predicting the he/she can make an appointment on time or not. We are using 4 nodes to predict this there are Rain, Train, Maintenance, Appointment.
+Here we are predicting the he/she can make an appointment on time or not. We are using 4 nodes to predict this. There are Rain, Train, Maintenance, Appointment.
 
 1. Rain has no parent.
 2. Train has two parent (Rain, Maintenance).
